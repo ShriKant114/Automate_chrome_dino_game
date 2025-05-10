@@ -1,7 +1,4 @@
 # Automate_chrome_dino_game
-### 📄 **GitHub Description for the Code**
-
----
 
 ### 🕹️ **Automated Pixel Detection and Key Press Bot**
 
