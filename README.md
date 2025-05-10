@@ -1,4 +1,4 @@
-# Automate_chrime_dino_game
+# Automate_chrome_dino_game
 ### 📄 **GitHub Description for the Code**
 
 ---
